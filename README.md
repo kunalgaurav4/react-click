@@ -1,3 +1,8 @@
+<h2>Click Me</h2>
+<p>A simple button component used to increase and decrease the value by button click</p>
+The project is hosted at [React Click](https://react-click.netlify.app/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
